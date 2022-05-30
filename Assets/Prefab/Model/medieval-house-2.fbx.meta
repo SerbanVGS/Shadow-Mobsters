@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 2d9f7a79fadc82047bd4dcb50eeb69bf
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 5463604515272126498
+    second: DoorFrontFrame|ChimneyPipes|Base stack|Layer0
+  - first:
+      74: 5003108130008974858
+    second: DoorFrontFrame|Chimney|Base stack|Layer0
+  - first:
+      74: -7843219732845677571
+    second: DoorFrontFrame|DoorBackFrame|Base stack|Layer0
+  - first:
+      74: 3072984970888102103
+    second: DoorFrontFrame|DoorBackHandle|Base stack|Layer0
+  - first:
+      74: -6187310408937087848
+    second: DoorFrontFrame|DoorBackSteps|Base stack|Layer0
+  - first:
+      74: -8733622320087033817
+    second: DoorFrontFrame|DoorBack|Base stack|Layer0
+  - first:
+      74: 3948649473812999389
+    second: DoorFrontFrame|DoorFrontFrame|Base stack|Layer0
+  - first:
+      74: 6991740699182666964
+    second: DoorFrontFrame|DoorFrontHandle|Base stack|Layer0
+  - first:
+      74: -5834949710527656700
+    second: DoorFrontFrame|DoorFront|Base stack|Layer0
+  - first:
+      74: 1610198363109760155
+    second: DoorFrontFrame|DoorSideFrame|Base stack|Layer0
+  - first:
+      74: 6384206869228127962
+    second: DoorFrontFrame|DoorSideHandle|Base stack|Layer0
+  - first:
+      74: -2619461284637630765
+    second: DoorFrontFrame|DoorSideSteps|Base stack|Layer0
+  - first:
+      74: -4982011025590386191
+    second: DoorFrontFrame|DoorSide|Base stack|Layer0
+  - first:
+      74: 3661083577531513703
+    second: DoorFrontFrame|Level1|Base stack|Layer0
+  - first:
+      74: 6529973503232010119
+    second: DoorFrontFrame|Level2|Base stack|Layer0
+  - first:
+      74: 5049814292294238604
+    second: DoorFrontFrame|Level3|Base stack|Layer0
+  - first:
+      74: -7792874605290069718
+    second: DoorFrontFrame|RoofFrame|Base stack|Layer0
+  - first:
+      74: -1770110741433119118
+    second: DoorFrontFrame|Roof|Base stack|Layer0
+  - first:
+      74: 6753578381405710510
+    second: DoorFrontFrame|Steps|Base stack|Layer0
+  - first:
+      74: -4724244660946459467
+    second: DoorFrontFrame|Window1Level1|Base stack|Layer0
+  - first:
+      74: 2668512318015109196
+    second: DoorFrontFrame|Window1Level2|Base stack|Layer0
+  - first:
+      74: 6878932572160696810
+    second: DoorFrontFrame|Window1Level3|Base stack|Layer0
+  - first:
+      74: 4090097169712398662
+    second: DoorFrontFrame|Window2Level1|Base stack|Layer0
+  - first:
+      74: 647296081405088120
+    second: DoorFrontFrame|Window2Level2|Base stack|Layer0
+  - first:
+      74: 8854529035372491319
+    second: DoorFrontFrame|Window2Level3|Base stack|Layer0
+  - first:
+      74: -2998914500216654646
+    second: DoorFrontFrame|Window3Level1|Base stack|Layer0
+  - first:
+      74: 8757927989113972614
+    second: DoorFrontFrame|Window3Level2|Base stack|Layer0
+  - first:
+      74: 1694478838691008729
+    second: DoorFrontFrame|Window3Level3|Base stack|Layer0
+  - first:
+      74: 2102103514306661819
+    second: DoorFrontFrame|Window4Level1|Base stack|Layer0
+  - first:
+      74: 3936091897634804581
+    second: DoorFrontFrame|Window4Level2|Base stack|Layer0
+  - first:
+      74: -1523695148152641262
+    second: DoorFrontFrame|Window5Level1|Base stack|Layer0
+  - first:
+      74: 8998893622838906456
+    second: DoorFrontFrame|Window5Level2|Base stack|Layer0
+  - first:
+      74: -4385834254216893006
+    second: DoorFrontFrame|Window6Level1|Base stack|Layer0
+  - first:
+      74: 6086798531259589842
+    second: DoorFrontFrame|Window6Level2|Base stack|Layer0
+  - first:
+      74: -8543334059937631375
+    second: DoorFrontFrame|WindowFrames|Base stack|Layer0
+  - first:
+      74: 1901098130099624179
+    second: DoorFrontFrame|WindowsHandles|Base stack|Layer0
+  - first:
+      74: -6038953250382016885
+    second: DoorFrontFrame|WoodenBeams|Base stack|Layer0
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
